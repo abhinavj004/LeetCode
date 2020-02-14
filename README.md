@@ -9,7 +9,7 @@ Please give this repo a :star: if it inspires you. Thanks. :blush:
 \# | Title | Difficulty | Solution
 ---|---|---|---
 1 | Two Sum | Easy | [Solution](leetcode/1.%20Two%20Sum)
-
+22 | Generate Parentheses | Medium | [Solution](leetcode/22.%20Generate%20Parentheses)
 
 # License
 
