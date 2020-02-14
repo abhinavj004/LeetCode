@@ -8,7 +8,7 @@ Please give this repo a :star: if it inspires you. Thanks. :blush:
 
 \# | Title | Difficulty | Solution
 ---|---|---|---
-1 | Two Sum | Easy | [Solution](leetcode/two%20sum.cpp)
+1 | Two Sum | Easy | [Solution](two%20sum.cpp)
 
 
 # License
