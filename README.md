@@ -10,7 +10,7 @@ Please give this repo a :star: if it inspires you. Thanks. :blush:
 ---|---|---|---
 1 | Two Sum | Easy | [Solution](leetcode/1.%20Two%20Sum)
 22 | Generate Parentheses | Medium | [Solution](leetcode/22.%20Generate%20Parentheses)
-208 | Implement Trie (Prefix Tree)  | Medium | [Solution] (leetcode/208.%20Implement%20Trie%20(Prefix%20Tree))
+208 | Implement Trie (Prefix Tree)  | Medium | [Solution] (leetcode/208.Implement%20Trie%20(Prefix%20Tree))
 
 # License
 
